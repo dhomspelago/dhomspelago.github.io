@@ -4,6 +4,8 @@ A single-page portfolio, hand-written in HTML, CSS and a short inline script for
 back-to-top button. No framework, no build step, no template. Open `index.html` and it
 works.
 
+**Live:** https://dhomspelago.github.io/ · **Repo:** https://github.com/dhomspelago/dhomspelago.github.io
+
 ## Files
 
 | File | Purpose |
@@ -39,6 +41,9 @@ python -m http.server 8080
 Then open `http://localhost:8080`.
 
 ## Publish with GitHub Pages
+
+Already deployed from `main` / root. Keep this section for a rebuild or a move to a new
+repository.
 
 1. Create a repository on GitHub named exactly `dhomspelago.github.io`.
 2. In this folder:
