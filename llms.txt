@@ -1,0 +1,16 @@
+# Domingo Pelago
+
+> Backend-focused full-stack developer in Caloocan City, Philippines. Seven years of production PHP and Laravel across logistics, healthcare, and restaurant projects.
+
+## Profile
+
+- [Portfolio](https://dhomspelago.github.io/): Selected work, experience, skills, and contact.
+- [Résumé (PDF)](https://dhomspelago.github.io/Domingo_Pelago_Resume.pdf): Two-page CV.
+- [LinkedIn](https://www.linkedin.com/in/dhmsplg/)
+- [GitHub](https://github.com/dhomspelago)
+
+## Notes
+
+- Available immediately for remote or Metro Manila roles.
+- Core stack: PHP, Laravel, MySQL, PostgreSQL, REST APIs, Vue.js, React.js.
+- Recent work includes a digital-signage integration, a page-load performance fix, a legacy-to-Laravel migration, and an AWS Bedrock SQL assistant.
