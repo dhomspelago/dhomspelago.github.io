@@ -6,7 +6,7 @@
 
 - [Portfolio](https://dhomspelago.github.io/): Selected work, experience, skills, and contact.
 - [Résumé (PDF)](https://dhomspelago.github.io/Domingo_Pelago_Resume.pdf): Two-page CV.
-- [LinkedIn](https://www.linkedin.com/in/dhmsplg/)
+- [LinkedIn](https://www.linkedin.com/in/dhmsplg)
 - [GitHub](https://github.com/dhomspelago)
 
 ## Notes
